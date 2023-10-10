@@ -15,6 +15,11 @@
 
 Este proyecto consiste en la creación de una base de datos de usuarios utilizando Python y PostgreSQL, para administrar datos de usuarios.
 
+# Estructura de Proyecto
+
+<p align="center">
+<img src="./recursos/estructuraProyecto.png"  height=300>
+</p>
 
 ## Deployment
 
