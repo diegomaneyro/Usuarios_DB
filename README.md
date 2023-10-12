@@ -52,37 +52,36 @@ Ejecutar App
 ## App Usuarios:
 ### Listar usuarios  
 
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `Opcion 1` | `SELECT` | **Parametro**. None |
+| Description | Type     | Parametro                |
+| :-------- | :------- | :----------------------- |
+| `Opcion 1` | `SELECT` | **None** |
 
 
 
 ### Agregar usuario  
 
-| Parameter | Type     | Description                          |
+| Description | Type     | Parametro                            |
 | :-------- | :------- | :----------------------------------- |
-| `Opcion 2` | `INSERT` | **Parametro**. (Username, password) |
+| `Opcion 2` | `INSERT` | Username, password                  |
 
 
 ### Modificar usuario  
 
-| Parameter | Type     | Description                  |
-| :-------- | :------- | :--------------------------- |
-| `Opcion 3` | `UPDATE` | **Parametro**. (id_usuario,
-Username, password) |
+| Description | Type     | Parametro                       |
+| :-------- | :------- | :-------------------------------|
+| `Opcion 3` | `UPDATE` | id_usuario, Username, password |
 
 ### Eliminar usuario  
 
-| Parameter | Type     | Description                |
+| Description | Type     | Parametro                |
 | :-------- | :------- | :------------------------- |
-| `Opcion 4` | `DELETE` | **Parametro**. (id_usuario) |
+| `Opcion 4` | `DELETE` | id_usuario |
 
 ### Salir
 
-| Parameter | Type     | Description                |
+| Description | Type     | Parametro                |
 | :-------- | :------- | :------------------------- |
-| `Opcion 5` | `Exit` | **Parametro**. None |
+| `Opcion 5` | `Exit` | **None**  |
 
 
 ## License
