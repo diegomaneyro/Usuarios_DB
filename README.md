@@ -34,6 +34,57 @@ Instalar librerias
 ```bash
   pip install -r > requirements.txt
 ```
+
+Ejecutar App
+
+```bash
+  python.exe menu_app_usuario.py 
+```
+
+
+## Uso de la App
+* Menu Principal:
+<p align="center">
+<img src="./recursos/MenuPrincipal.png"  height=150>
+</p>
+
+
+## App Usuarios:
+### Listar usuarios  
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `Opcion 1` | `SELECT` | **Parametro**. None |
+
+
+
+### Agregar usuario  
+
+| Parameter | Type     | Description                          |
+| :-------- | :------- | :----------------------------------- |
+| `Opcion 2` | `INSERT` | **Parametro**. (Username, password) |
+
+
+### Modificar usuario  
+
+| Parameter | Type     | Description                  |
+| :-------- | :------- | :--------------------------- |
+| `Opcion 3` | `UPDATE` | **Parametro**. (id_usuario,
+Username, password) |
+
+### Eliminar usuario  
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `Opcion 4` | `DELETE` | **Parametro**. (id_usuario) |
+
+### Salir
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `Opcion 5` | `Exit` | **Parametro**. None |
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
