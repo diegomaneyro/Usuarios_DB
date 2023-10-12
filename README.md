@@ -45,8 +45,11 @@ Ejecutar App
 ## Uso de la App
 * Menu Principal:
 <p align="center">
-<img src="./recursos/MenuPrincipal.png"  height=150>
+<img src="./recursos/MenuPrincipal.png"  height=200>
 </p>
+
+
+
 
 
 ## App Usuarios:
