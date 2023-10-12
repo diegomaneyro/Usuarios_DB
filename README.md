@@ -45,7 +45,7 @@ Ejecutar App
 ## Uso de la App
 * Menu Principal:
 <p align="center">
-<img src="./recursos/MenuPrincipal.png"  height=200>
+<img src="https://github.com/diegomaneyro/Usuarios_DB/blob/main/recursos/MenuPrincipal.PNG"  height=200>
 </p>
 
 
