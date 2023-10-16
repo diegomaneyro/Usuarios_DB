@@ -3,7 +3,7 @@ from psycopg2 import pool
 import sys
 
 class Conexion:
-    _DATABASE = 'usuario'
+    _DATABASE = 'usuario_db'
     _USERNAME = 'postgres'
     _PASSWORD = 'admin'
     _DB_PORT = '5432'

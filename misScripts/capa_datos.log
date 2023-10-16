@@ -426,3 +426,9 @@
 06:15:29 PM: INFO [menu_app_usuario.py:38] Salimos de la aplicacion
 06:41:14 PM: INFO [menu_app_usuario.py:30] Usuarios actualizados: 0
 06:41:15 PM: INFO [menu_app_usuario.py:38] Salimos de la aplicacion
+11:57:14 PM: INFO [menu_app_usuario.py:23] Usuarios Insertados: 1
+11:57:15 PM: INFO [menu_app_usuario.py:17] Usuario: 1 DiegoManeyro diego1254
+12:32:38 AM: INFO [menu_app_usuario.py:17] Usuario: 1 DiegoManeyro diego1254
+12:33:03 AM: INFO [menu_app_usuario.py:23] Usuarios Insertados: 1
+12:33:05 AM: INFO [menu_app_usuario.py:17] Usuario: 1 DiegoManeyro diego1254
+12:33:05 AM: INFO [menu_app_usuario.py:17] Usuario: 2 Diego-Maneyro diegom
