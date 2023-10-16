@@ -23,19 +23,26 @@ Este proyecto consiste en la creación de una base de datos de usuarios utilizan
 
 ## Deployment
 
-Clonar este proyecto
+Clonar este proyecto:
 
 ```bash
   git clone https://github.com/diegomaneyro/Usuarios_DB.git
 ```
 
-Instalar librerias
+Instalar librerias:
 
 ```bash
   pip install -r > requirements.txt
 ```
 
-Ejecutar App
+Desde SQL Shell(psql) ejecutar las sentencias del script:
+
+```bash
+  crear_database.sql
+```
+
+
+Iniciar App
 
 ```bash
   python.exe menu_app_usuario.py 

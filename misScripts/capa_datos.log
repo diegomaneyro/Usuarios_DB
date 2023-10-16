@@ -432,3 +432,7 @@
 12:33:03 AM: INFO [menu_app_usuario.py:23] Usuarios Insertados: 1
 12:33:05 AM: INFO [menu_app_usuario.py:17] Usuario: 1 DiegoManeyro diego1254
 12:33:05 AM: INFO [menu_app_usuario.py:17] Usuario: 2 Diego-Maneyro diegom
+12:44:27 AM: INFO [menu_app_usuario.py:30] Usuarios actualizados: 1
+12:44:29 AM: INFO [menu_app_usuario.py:17] Usuario: 1 Mauro Juarez mjuarez
+12:44:29 AM: INFO [menu_app_usuario.py:17] Usuario: 2 Diego-Maneyro diegom
+12:45:02 AM: INFO [menu_app_usuario.py:30] Usuarios actualizados: 1
